@@ -14,4 +14,4 @@ What I learnt in this project
 - Props
 
 Deployed on Netlify
-[**Netlify Link**]()
+[**Netlify Link**](https://tic-tac-toe-react-yo.netlify.app/)
