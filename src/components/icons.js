@@ -1,6 +1,6 @@
 import React from 'react';
-import { Gi3DGlasses } from "react-icons/gi";
-import { FaAlipay,FaTimes,FaPen,FaRegCircle } from "react-icons/fa";
+
+import { FaAlipay,FaTimes,FaRegCircle } from "react-icons/fa";
 
 const MyIcons = ({name}) => {
     switch(name){
