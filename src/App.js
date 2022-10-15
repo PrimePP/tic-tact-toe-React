@@ -2,12 +2,11 @@ import MyIcons from "./components/icons";
 import "bootstrap/dist/css/bootstrap.css";
 import { Card, CardBody, Container, Col, Row, Button } from "reactstrap";
 import React, { useState } from "react";
-import ReactDOM from "react-dom";
 
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
-import { type } from "@testing-library/user-event/dist/type";
+
 
 const itemsArray = new Array(9).fill('empty');
 
